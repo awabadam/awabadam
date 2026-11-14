@@ -3,7 +3,7 @@
 # Awab Elkhalil
 
 <a href="https://www.awab.design">
-  <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=22&duration=3200&pause=900&color=E5534B&center=true&vCenter=true&width=640&lines=Designer+%26+developer+in+Istanbul;Arabic-first%2C+multilingual+web+products;From+brand+to+deployed+product%2C+end+to+end" alt="Designer & developer in Istanbul" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=22&duration=3200&pause=900&color=E5534B&center=true&vCenter=true&width=640&lines=Design+engineer+in+Istanbul;Arabic-first%2C+multilingual+product+UI;Figma+to+production%2C+built+AI-first" alt="Design engineer in Istanbul" />
 </a>
 
 <p>
@@ -11,7 +11,7 @@
   <a href="https://cv.awab.design"><img src="https://img.shields.io/badge/Interactive_CV-8B1A1A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Interactive CV" /></a>
   <a href="https://linkedin.com/in/awab-adam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://behance.net/awab-elkhalil"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
-  <a href="https://www.awab.design/contact"><img src="https://img.shields.io/badge/Hire_me-E5534B?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Hire me" /></a>
+  <a href="https://www.awab.design/contact"><img src="https://img.shields.io/badge/Get_in_touch-E5534B?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Get in touch" /></a>
 </p>
 
 </div>
@@ -20,13 +20,13 @@
 
 ### About me
 
-I'm a designer who became a full-stack developer. I've been designing since 2016 and shipping production web apps since 2024. I do the whole job myself: brand and UX, Next.js and TypeScript, Postgres, and Docker on a VPS, so nothing gets lost between a designer and a developer.
+I'm a design engineer. I've been designing since 2016 and shipping production web apps since 2024. I design in Figma and build the same thing myself in Next.js and TypeScript, down to Postgres and Docker on a VPS, so nothing gets lost between a designer and a developer.
 
 - 🌍 **Arabic-first, multilingual.** Most of what I ship runs in 4 to 8 languages with full right-to-left support.
 - 🏥 **Healthcare and dental tourism.** Five production systems built around one Istanbul clinic, from the website and CMS to a patient app and sales-call analytics.
 - 🤖 **Spec-first with AI agents.** I write the spec, direct and review the implementation, test it, and own it in production.
 - 💬 Arabic (native) · English (full professional) · Turkish (working)
-- 📫 Open to freelance, contracts, and full-time roles, remote or with relocation.
+- 📫 Open to freelance and contract work.
 
 ---
 
