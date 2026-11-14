@@ -3,7 +3,7 @@
 # Awab Elkhalil
 
 <a href="https://www.awab.design">
-  <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=22&duration=3200&pause=900&color=E5534B&center=true&vCenter=true&width=640&lines=Design+engineer+in+Istanbul;Arabic-first%2C+multilingual+product+UI;Figma+to+production%2C+built+AI-first" alt="Design engineer in Istanbul" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=22&duration=3200&pause=900&color=E5534B&center=true&vCenter=true&width=640&lines=Product+designer+in+Istanbul;Arabic-first%2C+multilingual+products;I+prototype+and+ship+in+code" alt="Product designer in Istanbul" />
 </a>
 
 <p>
@@ -20,7 +20,7 @@
 
 ### About me
 
-I'm a design engineer. I've been designing since 2016 and shipping production web apps since 2024. I design in Figma and build the same thing myself in Next.js and TypeScript, down to Postgres and Docker on a VPS, so nothing gets lost between a designer and a developer.
+I'm a product designer who ships. I've been designing since 2016, and since 2024 I've also built what I design: in Next.js and TypeScript, AI-first with Claude Code, down to Postgres and Docker on a VPS. Nothing gets lost between a designer and a developer, and ideas get tested in the real product.
 
 - 🌍 **Arabic-first, multilingual.** Most of what I ship runs in 4 to 8 languages with full right-to-left support.
 - 🏥 **Healthcare and dental tourism.** Five production systems built around one Istanbul clinic, from the website and CMS to a patient app and sales-call analytics.
