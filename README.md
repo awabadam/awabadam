@@ -11,6 +11,7 @@
   <a href="https://cv.awab.design"><img src="https://img.shields.io/badge/Interactive_CV-8B1A1A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Interactive CV" /></a>
   <a href="https://linkedin.com/in/awab-adam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://behance.net/awab-elkhalil"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://dribbble.com/awabadam"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
   <a href="https://www.awab.design/contact"><img src="https://img.shields.io/badge/Get_in_touch-E5534B?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Get in touch" /></a>
 </p>
 
