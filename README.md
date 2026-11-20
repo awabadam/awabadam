@@ -3,7 +3,7 @@
 # Awab Elkhalil
 
 <a href="https://www.awab.design">
-  <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=22&duration=3200&pause=900&color=E5534B&center=true&vCenter=true&width=640&lines=Product+designer+in+Istanbul;Arabic-first%2C+multilingual+products;I+prototype+and+ship+in+code" alt="Product designer in Istanbul" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=22&duration=3200&pause=900&color=E5534B&center=true&vCenter=true&width=640&lines=Product+%26+brand+designer+in+Istanbul;Arabic-first%2C+multilingual+products;I+design+it%2C+then+I+build+it" alt="Product and brand designer in Istanbul" />
 </a>
 
 <p>
@@ -20,9 +20,10 @@
 
 ### About me
 
-I'm a product designer who ships. I've been designing since 2016, and since 2024 I've also built what I design: in Next.js and TypeScript, AI-first with Claude Code, down to Postgres and Docker on a VPS. Nothing gets lost between a designer and a developer, and ideas get tested in the real product.
+I'm a product and brand designer who ships. I've been designing since 2016: identity, packaging, print, motion and campaigns, and since 2024 I've also built what I design: in Next.js and TypeScript, AI-first with Claude Code, down to Postgres and Docker on a VPS. Nothing gets lost between a designer and a developer, and ideas get tested in the real product.
 
-- 🌍 **Arabic-first, multilingual.** Most of what I ship runs in 4 to 8 languages with full right-to-left support.
+- 🌍 **Arabic-first, multilingual.** Most of what I ship runs in up to 9 languages with full right-to-left support.
+- 🎨 **Brand to screen.** Logos, identity systems, packaging, catalogues and ad campaigns, and the website that carries them.
 - 🏥 **Healthcare and dental tourism.** Five production systems built around one Istanbul clinic, from the website and CMS to a patient app and sales-call analytics.
 - 🤖 **Spec-first with AI agents.** I write the spec, direct and review the implementation, test it, and own it in production.
 - 💬 Arabic (native) · English (full professional) · Turkish (working)
@@ -120,12 +121,23 @@ I'm a product designer who ships. I've been designing since 2016, and since 2024
       <p><a href="https://www.awab.design"><b>Live ↗</b></a> · <a href="https://github.com/awabadam/portfolio">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4>📰 <a href="https://github.com/awabadam/cs-cv">Interactive CV</a></h4>
-      <p>My CV, designed as an editorial newspaper spread. It has Three.js ink effects, page-by-page horizontal navigation, and six long-form case studies.</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="React Three Fiber" />
+      <h4>📰 <a href="https://github.com/awabadam/cs-cv">Portfolio &amp; CV</a></h4>
+      <p>My portfolio and CV, designed as an editorial print spread: 23 projects and seven long-form case studies, in English, Arabic and Turkish. Static output, no client framework.</p>
+      <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      <img src="https://img.shields.io/badge/RTL-AR%20%C2%B7%20TR%20%C2%B7%20EN-555555?style=flat-square" alt="Three languages" />
       <p><a href="https://cv.awab.design"><b>Live ↗</b></a> · <a href="https://github.com/awabadam/cs-cv">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🔤 <a href="https://github.com/awabadam/rtl-primitives">rtl-primitives</a></h4>
+      <p>Accessible, unstyled React components for Arabic and right-to-left booking and contact forms: Arabic-aware search, phone input in Arabic-Indic digits, a Hijri-ready calendar, RTL sliders and time-zone-aware booking slots. Claude Code suggested the library and wrote the code; I set the direction, tested it in Arabic and reviewed it. 96 tests and axe checks run on every push.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/a11y-axe-663399?style=flat-square" alt="Accessibility" />
+      <img src="https://img.shields.io/badge/license-MIT-2EA44F?style=flat-square" alt="MIT" />
+      <p><a href="https://awabadam.github.io/rtl-primitives"><b>Demo ↗</b></a> · <a href="https://github.com/awabadam/rtl-primitives">Code</a></p>
     </td>
   </tr>
   <tr>
@@ -150,7 +162,7 @@ The code for these is private, but you can visit the live sites.
 
 | | Project | What I built |
 |---|---|---|
-| 🦷 | **[saphiredent.com](https://saphiredent.com)** | A dental clinic platform in 8 languages with RTL. It has a custom CMS with 5-role access control, an AI chatbot with sales analytics, lead management, and Odoo CRM integration. I built it alone and run it on a VPS with blue-green deploys. |
+| 🦷 | **[saphiredent.com](https://saphiredent.com)** | A dental clinic platform in 9 languages with RTL. It has a custom CMS with 5-role access control, an AI chatbot with sales analytics, lead management, and Odoo CRM integration. I built it alone and run it on a VPS with blue-green deploys. |
 | ✨ | **[jouvencetr.com](https://jouvencetr.com)** | A premium site for an aesthetic clinic, in English, Arabic, and French, with GSAP and Lenis motion design and a custom Odoo patient-CRM add-on. |
 | 💇 | **[esteexpert.clinic](https://esteexpert.clinic)** | A lead-generation site for a hair-transplant clinic with an interactive graft calculator, in 4 languages including Arabic. |
 | 📈 | **[omar.marketing](https://omar.marketing)** | A site for a performance-marketing agency, in English and Arabic, with Three.js visuals and Lighthouse performance scores above 95. |
